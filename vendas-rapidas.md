@@ -12,7 +12,7 @@ Página curta, mobile-first e focada em conversão:
 2. Card lateral com projeto visual, valor e relógio de urgência.
 3. Área reservada para vídeo do YouTube.
 4. Três imagens de projetos para mostrar resultado concreto.
-5. Fechamento com suporte direto pelo professor no WhatsApp.
+5. Fechamento com suporte direto pelo professor e link direto para checkout.
 
 ## Promessa principal
 
@@ -24,7 +24,9 @@ Aprenda FlutterFlow do absoluto zero e publique seus primeiros aplicativos com a
 - Atualizações gratuitas durante todo o ano.
 - Aula individual grátis nas primeiras 24 horas de lançamento.
 - Valor normal da hora-aula: R$ 140.
+- Aula particular remota como brinde 100% grátis para quem comprar no lançamento.
 - Contato direto com o professor pelo WhatsApp após a compra.
+- Link de compra: https://pay.kiwify.com.br/3kg3E2k
 
 ## Copy de conversão
 
@@ -38,7 +40,7 @@ Um curso vitalício, direto ao ponto, com projetos reais e um professor que ama 
 
 ### CTA principal
 
-Garantir o curso por R$ 119
+Comprar agora e garantir a aula grátis
 
 ### Provas e reforços
 
@@ -51,6 +53,5 @@ Garantir o curso por R$ 119
 ## Próximos ajustes recomendados
 
 - Substituir os três espaços de imagem por capturas reais dos projetos.
-- Inserir o link real de compra ou WhatsApp no lugar de `5500000000000`.
 - Colocar um vídeo curto com o professor apresentando a promessa, o bônus e o resultado esperado.
 - Adicionar depoimentos assim que os primeiros alunos avançarem.
